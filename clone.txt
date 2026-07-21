@@ -1,0 +1,3 @@
+Hello good morning everyone...
+This folder is done to check the cloning process of the git and git hub
+Thank you..
